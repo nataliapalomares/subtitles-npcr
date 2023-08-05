@@ -17,7 +17,7 @@ sentences:
 - id: eed6ecbadd4f4fccb02f6971c42e03e6
   zh-hans: 我们在郊区农村盖了一个四合院。
   pinyin: wǒmen zài jiāoqū nóngcūn gàile yīgè sìhéyuàn.
-  en: we built a courtyard house in the village on the outskirts of town.
+  en: we built a courtyard house in the suburban countryside.
   es: Construimos una casa con patio en los suburbios rurales.
 - id: 800c5a7a91b14cba8da8999e9b1207cc
   zh-hans: 一个星期六，
@@ -32,37 +32,37 @@ sentences:
 - id: 55d076bfd5234adba5fc93f3724845e1
   zh-hans: 准备送过去装修我们的新房子。
   pinyin: zhǔnbèi sòng guòqù zhuāngxiū wǒmen de xīn fángzi.
-  en: preparing to send it over to rennovate our new house.
+  en: preparing it to send it over to rennovate our new house.
   es: lo preparamos para enviarlo a renovar nuestra nueva casa.
 - id: 2776ed7f768b465cb66911e584adbef2
   zh-hans: 我们到了村子里的时候，
   pinyin: Wǒmen dàole cūnzi lǐ de shíhou,
-  en: When we arrived in the village,
+  en: When we arrived to the village,
   es: Cuando llegamos al pueblo,
 - id: 5d42254f2f034446b8976018b9b32f79
   zh-hans: 家家都开始做晚饭了。
   pinyin: jiā jiā dōu kāishǐ zuò wǎnfànle.
-  en: all the households were starting to cook dinner.
+  en: all the families were starting to cook dinner.
   es: Las familias estaban empezando a preparar la cena.
 - id: c5dd5206a34244eabc86b6f660b44c9e
   zh-hans: 邻居们听到汽车的声音都走了出来，
   pinyin: Línjūmen tīng dào qìchē de shēngyīn dōu zǒule chūlái,
-  en: The neighbors heard the sound of the car and all came out,
+  en: The neighbours heard the sound of the car and all came out,
   es: Al oír el ruido del coche, los vecinos salieron y
 - id: d860cb7bdddd457083f992c23a189ce0
   zh-hans: 远远地站着，好奇地看着我们。
   pinyin: yuǎn yuǎn de zhànzhe, hàoqí de kànzhe wǒmen.
-  en: stood far away, curiously watching us.
+  en: standing far away, curiously watched us.
   es: desde lejos nos miraron con curiosidad.
 - id: 6d9608c73e4a4b5cb232090584baee51
   zh-hans: 我和丈夫跳下车来就忙着搬木头，
   pinyin: Wǒ hé zhàngfū tiào xià chē lái jiù mángzhe bān mùtou,
-  en: My husband and I jumped out of the car and immediately got to work moving wood,
+  en: My husband and I hopped out of the car and got busy moving the wood,
   es: Mi marido y yo bajamos del coche y nos afanamos en mover la madera
 - id: 3f188e867a364fe3b810c7aede188b81
   zh-hans: 想快点儿把东西卸完，好让司机回城去。
   pinyin: xiǎng kuài diǎnr bǎ dōngxi xiè wán, hǎo ràng sījī huí chéng qù.
-  en: as we wanted to quickly unload all the items, so that the driver could get back to the city.
+  en: as we wanted to quickly unload all the items, so the driver could go back to the city.
   es: intentando terminar de descargar las cosas rápidamente, para que el conductor pudiera volver a la ciudad.
 - id: a38aa7ddcd6c4867ab1c0f160e253457
   zh-hans: 我们在城市生活久了，
@@ -72,12 +72,12 @@ sentences:
 - id: fabf97ce69aa4808ade62008dd1b9c24
   zh-hans: 已经变得不太习惯干重活了。
   pinyin: yǐjīng biàn dé bù tài xíguàn gàn zhònghuóle.
-  en: and have already become less accustomed to doing heavy work.
+  en: and already were no longer used to doing heavy work.
   es: por lo que ya estabamos desacostumbrados a hacer trabajos pesados.
 - id: b768663acc9b426aabed608c6707b3a5
   zh-hans: 刚搬了两趟，我俩就累得走不动了。
   pinyin: Gāng bānle liǎng tàng, wǒ liǎ jiù lèi de zǒu bù dòngle.
-  en: After only two back and forth trips unloading, we were both too tired to walk.
+  en: After only two trips unloading, we both were too tired to walk.
   es: Después de sólo dos viajes, estábamos demasiado cansados para caminar.
 - id: 41444115d0e741cda6ea496bcf970c42
   zh-hans: 邻居们不但没有笑话我们，
@@ -87,7 +87,7 @@ sentences:
 - id: 1860f35010d04a4aa9deeed1afacd088
   zh-hans: 反而围了过来想帮助我们，
   pinyin: fǎn’ér wéile guòlái xiǎng bāngzhù wǒmen,
-  en: on the contrary they came over and wanted to help us,
+  en: instead they came over wanting to help us,
   es: se acercaron intentando ayudarnos,
 - id: 6826400960704488885c362dfc877e0f
   zh-hans: 可是又不知道我们会怎么想，
@@ -97,7 +97,7 @@ sentences:
 - id: cb8054cf4a724050bdacec20a07df5b6
   zh-hans: 他们好像有些犹豫。
   pinyin: tāmen hǎoxiàng yǒuxiē yóuyù.
-  en: so they were a little hesitant.
+  en: they seemed hesitant.
   es: Parecían indecisos.
 - id: 0d92d6015ae34fa79f2946aa3d036219
   zh-hans: 一个小伙子开玩笑地说：
@@ -107,12 +107,12 @@ sentences:
 - id: 54d9ade729334a84b882d5cb4bc3b97a
   zh-hans: “怎么了？难道你们俩打算干到明天吗？
   pinyin: “Zěnmele? Nándào nǐmen liǎ dǎsuàn gān dào míngtiān ma?
-  en: “What’s the matter? Are you two planning to work all the way through till tomorrow?
+  en: “What’s the matter? Are you two planning to work till tomorrow?
   es: '"¿Qué pasa? ¿Acaso van a trabajar hasta mañana?'
 - id: 2422adac8da24bf18b664f5453484ebc
   zh-hans: 你们这么干，即使干到明天早上，
   pinyin: Nǐmen zhème gàn, jíshǐ gān dào míngtiān zǎoshang,
-  en: If you work like that, then even if you work through till tomorrow morning,
+  en: If you work like that, then even if you work till tomorrow morning,
   es: Si trabajan asi, incluso si trabajan hasta mañana en la mañana
 - id: 8897d5c40de34b5f9eb4e11af90db74a
   zh-hans: 恐怕也干不完！”
@@ -127,32 +127,32 @@ sentences:
 - id: 93fff706009c4ac08607904a199b950d
   zh-hans: 我靠在车上，也跟着他们一起笑。
   pinyin: Wǒ kào zài chē shàng, yě gēnzhe tāmen yīqǐ xiào.
-  en: I leaned on the car, and also started to laugh with them.
+  en: I leaned on the car, and started to laugh with them.
   es: Me apoyé en el coche y me reí con ellos.
 - id: 4ce73646bf774f70821e0e33775d2fec
   zh-hans: 那个小伙子看我们俩也跟着笑，
   pinyin: Nàgè xiǎohuǒzi kàn wǒmen liǎ yě gēnzhe xiào,
-  en: The young man looked at us and also laughed, and
+  en: The young man looked at us and also laughed,
   es: El joven nos vio y se rió con nosotros.
 - id: 3ba0d24ffb664f3e8189dfbdfe46d246
   zh-hans: 就接着说：
   pinyin: 'jiù jiēzhe shuō:'
-  en: 'then he said:'
+  en: 'then when on to say:'
   es: 'Continuó diciendo:'
 - id: d749634d3f0343d9bf0289865c5f6369
   zh-hans: “你们检查一下，
   pinyin: “Nǐmen jiǎnchá yīxià,
-  en: “Can you take a look,
+  en: “You should check,
   es: '"Ustedes revisen'
 - id: aa2cd3b9078e48b4a4ee6f19a196dded
   zh-hans: 有什么重要的东西没有？
   pinyin: yǒu shénme zhòngyào de dōngxi méiyǒu?
-  en: whether there are any important items or not?
+  en: whether there is anything important or not?
   es: si hay algo importante o no
 - id: 10a3b23459ec45c1b47a30b64d7e3ed0
   zh-hans: 要是有，就先把它收好。”
   pinyin: Yàoshi yǒu, jiù xiān bǎ tā shōu hǎo.”
-  en: If there are, come and get them first.”
+  en: If there is, put it away first.”
   es: 'Si lo hay, guárdenlo primero".'
 - id: 0053d86daaf04d6997f3db88fa72ed0c
   zh-hans: “没有，没有，没什么东西。”
@@ -167,7 +167,7 @@ sentences:
 - id: e1a022da20004de29c591c4540657f25
   zh-hans: “别站着看了，大家帮帮忙吧！”
   pinyin: “Bié zhànzhe kànle, dàjiā bāng bāngmáng ba!”
-  en: “Don’t just stand there, everyone help!”
+  en: “Don’t just stand and watch, everyone help!”
   es: "¡No se queden mirando, todos ayuden!"
 - id: 4b0aa99248b64aac9d5b38fe7eda6d21
   zh-hans: “好。”
@@ -182,17 +182,17 @@ sentences:
 - id: 26ea2e62df9740078ced9f8c06deb8e7
   zh-hans: 邻居们马上推出了自己的小车，
   pinyin: Línjūmen mǎshàng tuīchūle zìjǐ de xiǎochē,
-  en: The neighbours immediately put aside their own small vehicles,
+  en: The neighbours immediately took out their own wheelbarrows,
   es: Los vecinos inmediatamente sacaron sus carretillas
 - id: aa7f3ce01304449c93d9231adccf448a
   zh-hans: 就帮我们干起来。
   pinyin: jiù bāng wǒmen gàn qǐlái.
-  en: and got to work helping us.
+  en: and helped us do it.
   es: y nos ayudaron a hacerlo.
 - id: d82b123caea5461fb4db162a126d1906
   zh-hans: 他们干得又快又好，不到一个小时，
   pinyin: Tāmen gàn de yòu kuài yòu hǎo, bù dào yīgè xiǎoshí,
-  en: They worked quickly and hard, and in less than an hour,
+  en: They worked fast and well, and in less than an hour,
   es: Lo hicieron rápido y bien, en menos de una hora
 - id: 8ba91d785bd849ab8f3efc4dbf6c76cb
   zh-hans: 就把一卡车的东西卸完了，
@@ -212,27 +212,27 @@ sentences:
 - id: c8968f1342d4496fbd9eabda630b8917
   zh-hans: 邻居们也拍拍衣服，准备回去。
   pinyin: línjūmen yě pāi pāi yīfú, zhǔnbèi huíqù.
-  en: and the neighbors patted their clothes, ready to go back.
+  en: and the neighbors patted their clothes, and got ready to go back.
   es: Los vecinos se palmearon la ropa y se prepararon para volver.
 - id: e422e8c4aaa54b23899c9037f92a526f
   zh-hans: 我连忙跟丈夫商量，
   pinyin: Wǒ liánmáng gēn zhàngfū shāngliáng,
-  en: I promptly disussed with my husband,
+  en: I promptly discussed with my husband,
   es: Me apresuré a discutir con mi marido
 - id: 0fef295ad53343c3ba887dcc9b4c48cb
   zh-hans: 应该给每个人多少报酬。
   pinyin: yīnggāi gěi měi gèrén duōshǎo bàochóu.
-  en: how much remuneration we should give every person.
+  en: how much we should give to everyone as a reward.
   es: con cuánto deberíamos recompensar a cada uno.
 - id: f05adaee1bc347f8b02e4073aaafcea7
   zh-hans: 邻居们听说要给钱，都急着推车往外走，
   pinyin: Línjūmen tīng shuō yào gěi qián, dōu jízhe tuī chē wǎngwài zǒu,
-  en: The neighbours heard us talking about giving money, and they all quickly pushed their vehicles away,
+  en: When the neighbours heard us talking about giving money, they all quickly pushed their wheelbarrows away,
   es: Cuando los vecinos escucharon que les pagaríamos, salieron apresuradamente con sus carros.
 - id: 9face98fbaa14354969c6c5bb0d036fc
   zh-hans: 不管我们怎么说，他们都不听。
   pinyin: bùguǎn wǒmen zěnme shuō, tāmen dōu bù tīng.
-  en: no matter what we said, they all wouldn’t listen.
+  en: no matter what we said, they wouldn’t listen.
   es: Sin importar lo que dijéramos, no nos escuchaban.
 - id: 90bebe26a69e46558d0e6b4ee147d9ff
   zh-hans: 尤其是那小伙子，
@@ -242,7 +242,7 @@ sentences:
 - id: a52fb5f7d5304c398bdd6c4214b80bf7
   zh-hans: 他一边走还一边说：
   pinyin: 'tā yībiān zǒu hái yībiān shuō:'
-  en: 'while walking away he said:'
+  en: 'As he walked he said:'
   es: 'Mientras caminaba, decía:'
 - id: 930c286f1e0349f08845ba090eef40a2
   zh-hans: “你们城里人，什么事儿都讲钱！
@@ -252,12 +252,12 @@ sentences:
 - id: 484cb293b77b4f6daca20db5b6eada89
   zh-hans: 家里饭都凉了，我们该回家吃饭了。”
   pinyin: Jiālǐ fàn dōu liángle, wǒmen gāi huí jiā chīfànle.”
-  en: Food at home is getting cold, we have to go home to eat.”
+  en: Food at home is getting cold, we should go back home to eat.”
   es: 'La comida se enfría. Deberíamos ir a casa a cenar".'
 - id: 448e887aba2e48dc99801654e6afe861
   zh-hans: “以后咱们都是邻居了，
   pinyin: “Yǐhòu zánmen dōu shì línjūle,
-  en: “Now, we are neighbours,
+  en: “We will be neighbours from now on,
   es: '"A partir de ahora seremos vecinos.'
 - id: 55bafd45b9454101bc804a63fbba87bb
   zh-hans: 要是你们有什么事儿，
@@ -267,7 +267,7 @@ sentences:
 - id: b496e1b323fd4dc68e3c4b0e48f8d73c
   zh-hans: 就说一声，别客气⋯⋯”
   pinyin: jiù shuō yīshēng, bié kèqì ⋯⋯”
-  en: just say, no need to be polite…”
+  en: just say so, no need to be polite…”
   es: 'solo dígannoslo, no es molestia"'
 - id: 0df9645c752f4f3693f6258c72164f81
   zh-hans: 他们都走了，我们俩坐在院子里休息。
@@ -292,12 +292,12 @@ sentences:
 - id: ea972241da49450785654e9945bcf727
   zh-hans: 可是今天在村里我又感觉到了
   pinyin: kěshì jīntiān zài cūnlǐ wǒ yòu gǎnjué dàole
-  en: but today in the village I feel
+  en: but today in the village I felt that
   es: Pero hoy en el pueblo he vuelto a sentir que.
 - id: e553c6ab611a400cbeefa4dd960901bc
   zh-hans: ‘远亲不如近邻’。”
   pinyin: ‘yuǎnqīn bùrú jìnlín’.”
-  en: ‘a relative afar is less use than a close neighbor’.”
+  en: ‘Close neighbours are better than relatives afar’.”
   es: 'Los vecinos valen más que los parientes lejanos".'
 - id: 4f73b7e6187448fc8315cd0950a640d9
   zh-hans: “村里人太好了！”
