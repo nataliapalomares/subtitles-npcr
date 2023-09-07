@@ -10,130 +10,130 @@ metadata:
   add-groups-es: {finished: false, issue_id: 581}
 sentences:
 - id: 1da8f151-3454-4883-bd9d-142fa7ce8c1d
-  zh-hans: 我们把自己的看法说出来，你们会不高兴吗？
-  pinyin: Wǒmen bǎ zìjǐ de kànfǎ shuō chūlái, nǐmen huì bù gāoxìng ma?
-  en: If we speak our minds, are you two going to be unhappy?
-  es: ¿Le molestaría que expusiéramos nuestras opiniones?
+  zh-hans: 我们把自己的(1:看法:1)说出来，你们会(1:不高兴)吗？
+  pinyin: Wǒmen bǎ zìjǐ de (1:kànfǎ) shuō chūlái, nǐmen huì (1:bù gāoxìng) ma?
+  en: If we share our (1:point of views), are you two going to be (1:unhappy)?
+  es: ¿Se sentirán (1:tristes) si decimos nuestros propios (1:puntos de vista)?
 - id: 25159066-80bf-433b-9ae6-61072d3ce966
-  zh-hans: 当然不会。我们常跟外国朋友在一起，
-  pinyin: Dāngrán bù huì. Wǒmen cháng gēn wàiguó péngyǒu zài yīqǐ,
-  en: Of course not. We are often with foreign friends, and
-  es: Por supuesto que no. A menudo estamos con amigos extranjeros.
+  zh-hans: (1:当然)不会。我们常跟(2:外国)(3:朋友)在一起，
+  pinyin: (1:Dāngrán) bù huì. Wǒmen cháng gēn (2:wàiguó) (3:péngyǒu) zài yīqǐ,
+  en: (1:Of course) not. We are often with (2:foreign) (3:friends), and
+  es: (1:Por supuesto) que no. A menudo estamos con (3:amigos) (2:extranjeros),
 - id: b6e17868-a457-4229-9196-3b243a542728
-  zh-hans: 知道不同国家的人有不同的习惯。
-  pinyin: zhīdào bùtóng guójiā de rén yǒu bùtóng de xíguàn.
-  en: know that people from different countries have different customs.
-  es: Sabemos que la gente de distintos países tiene costumbres diferentes.
+  zh-hans: 知道(1:不同)(2:国家)的人有(3:不同)的(4:习惯)。
+  pinyin: zhīdào (1:bùtóng) (2:guójiā) de rén yǒu (3:bùtóng) de (4:xíguàn).
+  en: know that people from (1:different) (2:countries) have (3:different) (4:customs).
+  es: sabemos que la gente de (1:distintos) (2:países) tiene (4:costumbres) (3:diferentes).
 - id: 9f919431-f4ca-4b0f-b111-77fef85cf85c
-  zh-hans: 对我们来说，这很正常。
-  pinyin: Duì wǒmen lái shuō, zhè hěn zhèngcháng.
-  en: From our perspective, this is normal.
-  es: Para nosotros, esto es normal.
+  zh-hans: (1:对我们来说)，这很(2:正常:2)。
+  pinyin: (1:Duì wǒmen lái shuō), zhè hěn (2:zhèngcháng).
+  en: (1:To us), this is (2:normal).
+  es: (1:Para nosotros), esto es (2:normal).
 - id: 37fbff72-ffb2-45f3-a06c-12a36358fb51
-  zh-hans: 不了解外国文化的人会怎么想呢？
-  pinyin: Bù liǎojiě wàiguó wénhuà de rén huì zěnme xiǎng ne?
-  en: What about people who do not understand foreign cultures, how do they think?
-  es: ¿Qué piensa la gente que no conoce la cultura extranjera?
+  zh-hans: 不(1:了解)(2:外国)(3:文化)的(4:人)会怎么想呢？
+  pinyin: Bù (1:liǎojiě) (2:wàiguó) (3:wénhuà) de rén huì zěnme xiǎng ne?
+  en: What about (4:people) who do not (1:understand) (2:foreign) (3:cultures), how do they think?
+  es: ¿Qué piensa la (4:gente) que no (1:conoce) la (3:cultura) (2:extranjera)?
 - id: 6dcb2483-7a27-45a8-b47d-c33aa4a1b424
-  zh-hans: 有些事儿他们会觉得很不习惯，比如说，
-  pinyin: Yǒuxiē shìr tāmen huì juéde hěn bù xíguàn, bǐrú shuō,
-  en: Some things they will not be accustomed to, for example,
-  es: Hay cosas con las que no se sienten cómodos, por ejemplo.
+  zh-hans: (1:有些)(2:事儿)(3:他们)会觉得很不(3:习惯)，(4:比如说)，
+  pinyin: (1:Yǒuxiē) (2:shìr) (3:tāmen) huì juéde hěn bù (3:xíguàn), (4:bǐrú shuō),
+  en: (1:Some) (2:things) (3:they) will not be (3:accustomed) to, (4:for example),
+  es: (1:Algunas) (2:cosas) con las que (3:ellos) aún no se han (3:acostumbrado), (4:por ejemplo),
 - id: dc78f393-00e5-4ff3-845c-12795e4763ec
-  zh-hans: 中国人吃饭用筷子，西方人吃饭用刀叉。
-  pinyin: Zhōngguó rén chīfàn yòng kuàizi, xīfāng rén chīfàn yòng dāo chā.
-  en: Chinese people eat using chopsticks, western people eat using a knife and fork.
-  es: Los chinos comen con palillos, los occidentales con cuchillo y tenedor.
+  zh-hans: (1:中国)(2:人)(3:吃饭)用(3:筷子:3)，(4:西方)(5:人)(6:吃饭)用(7:刀叉:4)。
+  pinyin: (1:Zhōngguó) (2:rén) (3:chīfàn) yòng (3:kuàizi), (4:xīfāng) (5:rén) (6:chīfàn) yòng (7:dāochā).
+  en: (1:Chinese) (2:people) (3:eat) using (3:chopsticks), (4:western) (5:people) (6:eat) using a (7:knife and fork).
+  es: las (2:personas) de (1:China) usan (3:palillos) para (3:comen), las (5:personas) de (4:occidente) usan (7:cuchillo y tenedor) para (6:comer).
 - id: 5eed6d60-91d7-4a22-a4fd-057a43c2f3be
-  zh-hans: 西方人把食物放在自己的盘子里，
-  pinyin: Xīfāng rén bǎ shíwù fàng zài zìjǐ de pánzi lǐ,
-  en: Western people put food on their own plate,
-  es: Los occidentales ponen la comida en su plato.
+  zh-hans: (1:西方)(2:人)把(3:食物:5)放在自己的(4:盘子:7)里，
+  pinyin: (1:Xīfāng) (2:rén) bǎ (3:shíwù) fàng zài zìjǐ de (4:pánzi) lǐ,
+  en: (1:Western) (2:people) put (3:food) on their own (4:plate),
+  es: Las (2:personas) del (1:occidente) ponen la (3:comida) en su (4:plato),
 - id: 3d892fec-e2ab-4f3e-a6b7-fd1915b503ff
-  zh-hans: 把大块切成小块，再把它送到嘴里。
-  pinyin: bǎ dà kuài qiè chéng xiǎo kuài, zài bǎ tā sòng dào zuǐ lǐ.
-  en: cut it into small pieces, and then put it into their mouths.
-  es: Cortan el trozo grande en trozos pequeños y se lo llevan a la boca.
+  zh-hans: 把大(1:块:6)(2:切:8)成小(3:块:6)，再把它送到(4:嘴:9)里。
+  pinyin: bǎ dà (1:kuài) (2:qiè) chéng xiǎo (3:kuài), zài bǎ tā sòng dào (4:zuǐ) lǐ.
+  en: (2:cut) the big (1:pieces) into small (3:pieces), and then put it into their (4:mouths).
+  es: (2:cortan) el trozo (1:grande) en (3:trozos) pequeños y se lo llevan a la (4:boca).
 - id: b0637626-6d6b-4000-a481-14a338baa770
-  zh-hans: 如果手指上有点儿食物，就舔手指，
-  pinyin: Rúguǒ shǒuzhǐ shàng yǒudiǎnr shíwù, jiù tiǎn shǒuzhǐ,
-  en: If they touch the food a bit with their fingers, then will lick their fingers,
-  es: Si se manchan un poco los dedos, se los chupan.
+  zh-hans: 如果(1:手指:10)上有点儿(2:食物:5)，就(3:舔:11)(4:手指:10)，
+  pinyin: Rúguǒ (1:shǒuzhǐ) shàng yǒudiǎnr (2:shíwù), jiù (3:tiǎn) (4:shǒuzhǐ),
+  en: If they touch the (2:food) a bit with their (1:fingers), then will (3:lick) their (4:fingers),
+  es: Si se manchan un poco los (1:dedos) con (2:comida), se (3:chupan) los (4:dedos),
 - id: fa98784e-9bc2-41d0-be09-87d805dfd0d7
-  zh-hans: 有的中国人看了也很不习惯。
-  pinyin: yǒu de Zhōngguó rén kànle yě hěn bù xíguàn.
-  en: some Chinese people are not used to seeing this.
-  es: Algunos chinos no están acostumbrados a ver esto.
+  zh-hans: 有的(1:中国)(2:人)看了也很不(3:习惯)。
+  pinyin: yǒu de (1:Zhōngguó) (2:rén) kànle yě hěn bù (3:xíguàn).
+  en: some (1:Chinese) (2:people) are not (3:used to) seeing this.
+  es: algunos (2:personas) de (1:China) no están (3:acostumbrados) a ver esto.
 - id: 3b9a80c4-b52e-4dc1-afc8-81ab465ac164
-  zh-hans: 用刀叉吃饭，把手指上的食物舔干净，
-  pinyin: Yòng dāo chā chīfàn, bǎ shǒuzhǐ shàng de shíwù tiǎn gānjìng,
-  en: Using a knife and fork to eat, licking clean fingers, those are our good habits.
-  es: Comen con cuchillo y tenedor, y se lamen la comida de los dedos.
+  zh-hans: 用(1:刀叉:4)吃饭，把(2:手指:10)上的(3:食物)(4:舔:11)(5:干净:12)，
+  pinyin: Yòng (1:dāochā) chīfàn, bǎ (2:shǒuzhǐ) shàng de (3:shíwù) (4:tiǎn) (5:gānjìng),
+  en: Using a (1:knife and fork) to eat, (4:licking) the (3:food) in their (2:fingers) to (5:clean) them,
+  es: Comen con (1:cuchillo y tenedor), y se (4:lamen) la (3:comida) de los (2:dedos) para (5:limpiárselos),
 - id: a0570302-9c00-46c8-bca2-09db4149966b
-  zh-hans: 那是我们的好习惯。力波，你说是不是？
-  pinyin: nà shì wǒmen de hǎo xíguàn. Lìbō, nǐ shuō shì bùshì?
-  en: Libo, do you think so or not?
-  es: Esa es nuestra buena costumbre. ¿No lo crees, Ripple?
+  zh-hans: 那是我们的(1:好)(2:习惯)。(3:力波)，你说是不是？
+  pinyin: nà shì wǒmen de (1:hǎo) (2:xíguàn). (3:Lìbō), nǐ shuō shì bùshì?
+  en: those are our (1:good) (2:habits). (3:Libo), do you think so or not?
+  es: esa es nuestra (1:buena) (2:costumbre). (3:Libo) habla ¿si o no?
 - id: 275226c4-7945-40b3-a873-2da73926e720
-  zh-hans: 是啊。我们从小到大都这样做。
-  pinyin: Shì a. Wǒmen cóngxiǎo dào dà dōu zhèyàng zuò.
-  en: Yes. From when we are little to when we are grown up we do this.
-  es: Sí, lo es. Lo hemos estado haciendo desde que éramos niños.
+  zh-hans: 是啊。我们(1:从)(2:小)到(3:大)都(4:这样:13)做。
+  pinyin: Shì a. Wǒmen (1:cóng) (2:xiǎo) dào dà dōu (4:zhèyàng) zuò.
+  en: Yes. (1:From) when we are (2:little) to when we are (3:grown up) we do (4:like this).
+  es: Sí, lo es. (1:Desde) que eramos (2:niños) hasta que hemos sido (3:grandes), lo hemos estado haciendo (4:así).
 - id: c05fd3b1-43c9-4c2e-b8d1-1d0f923f4b76
-  zh-hans: 可是在我们这儿，
-  pinyin: Kěshì zài wǒmen zhèr,
-  en: But for us here,
-  es: Pero con nosotros.
+  zh-hans: 可是在(1:我们)这儿，
+  pinyin: Kěshì zài (1:wǒmen) zhèr,
+  en: But for (1:us) here,
+  es: Pero acá con (1:nosotros),
 - id: 61021abb-b5ee-4a7c-9905-aca3b73a975a
-  zh-hans: 吃饭的时候舔手指不是好习惯。
-  pinyin: chīfàn de shíhou tiǎn shǒuzhǐ bùshì hǎo xíguàn.
-  en: licking fingers when eating is not a good habit.
-  es: No es bueno chuparse los dedos mientras se come.
+  zh-hans: (1:吃饭)的时候(2:舔:11)(3:手指:10)不是(4:好)(5:习惯)。
+  pinyin: (1:chīfàn) de shíhou (2:tiǎn) (3:shǒuzhǐ) bùshì (4:hǎo) (5:xíguàn).
+  en: when (1:eating), (2:licking) (3:fingers) is not a (4:good) (5:habit).
+  es: cuando se (1:come), (2:chuparse) los (3:dedos) no es un (4:buen) (5:hábito).
 - id: 619a1c46-ac85-4f3c-8687-58469afe7a43
-  zh-hans: 我看应该“入乡随俗”。
-  pinyin: Wǒ kàn yīnggāi “rùxiāngsuísú”.
-  en: I think that “when in Rome do as the Romans do”.
-  es: Creo que deberíamos hacer como los romanos.
+  zh-hans: 我看应该“(1:入)(2:乡)(3:随)(4:俗)”。
+  pinyin: Wǒ kàn yīnggāi "(1:rù)(2:xiāng)(3:suí)sú".
+  en: I think that "when (1:entering) an (2:administrative unit) (3:follow) the (4:customs)".
+  es: Creo que "al (1:entrar) a una (2:región administrativa), (3:sigue) las (4:costumbres)".
 - id: 50025ed2-4eb8-48a8-b3f3-94b49441f605
-  zh-hans: 我们在国外的公共场所
-  pinyin: Wǒmen zài guówài de gōnggòng chǎngsuǒ
-  en: When we are in foreign public places
-  es: Cuando estamos en el extranjero en lugares públicos.
+  zh-hans: 我们在(1:国外)的(2:公共)(3:场所)
+  pinyin: Wǒmen zài (1:guówài) de (2:gōnggòng) (3:chǎngsuǒ)
+  en: When we are in (1:foreign) (2:public) (3:places)
+  es: Cuando estamos en el (1:extranjero) en (3:lugares) (2:públicos)
 - id: 54397ec5-430e-4692-b3eb-d518850cc5d0
-  zh-hans: 说话的声音要小一点儿；
-  pinyin: shuōhuà de shēngyīn yào xiǎo yīdiǎnr;
-  en: we speak a little more quietly;
-  es: Tenemos que bajar la voz en lugares públicos;
+  zh-hans: 说话的(1:声音)要小一点儿；
+  pinyin: shuōhuà de (1:shēngyīn) yào xiǎo yīdiǎnr;
+  en: our (1:voice) when talking should be a little more quiet;
+  es: tenemos que bajar la (1:voz) cuando hablamos;
 - id: 9881d008-2510-47bd-90b1-ba94ac66536c
-  zh-hans: 你们到中国人家里吃饭也不一定要舔手指。
-  pinyin: nǐmen dào Zhōngguó rén jiālǐ chīfàn yě bù yīdìng yào tiǎn shǒuzhǐ.
-  en: when you eat at a Chinese person’s home you should defintely not lick your fingers.
-  es: No tienes que chuparte los dedos cuando comes en una casa china.
+  zh-hans: 你们到(1:中国)(3:人)家里(2:吃饭)也不一定要(3:舔:11)(4:手指:10)。
+  pinyin: nǐmen dào (1:Zhōngguó) (3:rén) jiālǐ (2:chīfàn) yě bù yīdìng yào (3:tiǎn) (4:shǒuzhǐ).
+  en: when you (2:eat) at a (1:Chinese) (3:person)’s home you should defintely not (3:lick) your (4:fingers).
+  es: cuando van la casa de una (3:persona) (1:china) a (2:comer) no tienen que (3:chuparse) los (4:dedos),
 - id: 7078a369-77fc-4047-b6f8-db3671d50ab1
-  zh-hans: 对，我就是“入乡随俗”：
-  pinyin: 'Duì, wǒ jiùshì "rùxiāngsuísú":'
-  en: 'That’s right, "when in Rome do as the Romans do":'
-  es: 'Sí, sigo las costumbres:'
+  zh-hans: 对，我就是“(1:入)(2:乡)(3:随)(4:俗)”：
+  pinyin: 'Duì, wǒ jiùshì "(1:rù)(2:xiāng)(3:suí)sú":'
+  en: 'That’s right, "when (1:entering) an (2:administrative unit) (3:follow) the (4:customs)":'
+  es: 'Sí, yo soy así "al (1:entrar) a una (2:región administrativa), (3:sigue) las (4:costumbres)":'
 - id: 490b7c87-a62c-452b-bb6d-f1b67b6f511b
-  zh-hans: 吃中餐的时候，我用筷子；
-  pinyin: Chī zhōngcān de shíhou, wǒ yòng kuàizi;
-  en: when eating Chinese food, I use chopsticks;
-  es: Cuando como comida china, uso palillos;
+  zh-hans: 吃(1:中餐)的时候，我用(2:筷子:3)；
+  pinyin: Chī (1:zhōngcān) de shíhou, wǒ yòng (2:kuàizi);
+  en: when eating (1:Chinese food), I use (2:chopsticks);
+  es: Cuando como (1:comida china), uso (2:palillos);
 - id: ed694b7f-70de-43f2-bf7f-3847160e855a
-  zh-hans: 吃西餐的时候，我用刀子、叉子。
-  pinyin: chī xīcān de shíhou, wǒ yòng dāozi, chāzi.
-  en: when eating western food, I use a knife and a fork.
-  es: Cuando como comida occidental, uso cuchillo y tenedor.
+  zh-hans: 吃(1:西餐:14)的时候，我用(2:刀子:4)、(3:叉子:4)。
+  pinyin: chī (1:xīcān) de shíhou, wǒ yòng dāozi, chāzi.
+  en: when eating (1:western food), I use a knife and a fork.
+  es: cuando como (1:comida occidental), uso cuchillo y tenedor.
 - id: 41510ad8-ebdb-42e4-a5fe-7af801f90f37
-  zh-hans: 我觉得都很好。我爸爸妈妈他们也都是这样。
-  pinyin: Wǒ juéde dōu hěn hǎo. Wǒ bàba māmā tāmen yě dōu shì zhèyàng.
-  en: I think both are good. My father and mother are also both like this.
-  es: Creo que todo está bien. Mi madre y mi padre hacen lo mismo.
+  zh-hans: 我觉得都很好。我(1:爸爸)(2:妈妈)他们也都是(3:这样:13)。
+  pinyin: Wǒ juéde dōu hěn hǎo. Wǒ (1:bàba) (2:māmā) tāmen yě dōu shì (3:zhèyàng).
+  en: I think both are good. My (1:father) and (2:mother) are also both (3:like this).
+  es: Creo que todo está bien. Mi (1:padre) y mi (2:madre) lo hacen (3:así).
 - id: a772e3cf-c9d8-4c72-923b-3b7850624784
-  zh-hans: 力波，把“入乡随俗”翻译成英语，
-  pinyin: Lìbō, bǎ “rùxiāngsuísú” fānyì chéng yīngyǔ,
-  en: Libo, translating “when in Rome do as the Romans do” into English,
-  es: Ripple, traduce "Cuando estés en Roma, haz como los romanos" al inglés.
+  zh-hans: (1:力波)，把“(2:入)(3:乡)(4:随)(5:俗)”翻译成(6:英语)，
+  pinyin: (1:Lìbō), bǎ “(2:rù)(3:xiāng)(4:suí)(5:sú)” fānyì chéng (6:yīngyǔ),
+  en: (1:Libo), translating “when (2:entering) an (3:administrative unit) (4:follow) the (5:customs)” into (6:English),
+  es: Libo, traduce "al (2:entrar) a una (3:región administrativa), (4:sigue) las (5:costumbres)" al (6:inglés),
 - id: 14e5bbc3-520a-46b5-840e-b98f37ed738e
   zh-hans: 该怎么说？
   pinyin: gāi zěnme shuō?
@@ -141,6 +141,6 @@ sentences:
   es: ¿Cómo se dice?
 - id: c33453b9-32bf-4a9d-9882-996ab13a9bf4
   zh-hans: 诶，你说，应该是……
-  pinyin:
-  en:
-  es:
+  pinyin: Éi, nǐ shuō, yīnggāi shì...
+  en: Hey, you say it, it should be...
+  es: Hey, tú dilo, debería ser...

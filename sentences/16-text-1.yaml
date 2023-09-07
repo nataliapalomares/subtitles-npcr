@@ -15,6 +15,7 @@ sentences:
   en: This is the Beijing library. Let’s go in.
   es: Esta es la Biblioteca de Pekín. Entremos.
 - id: 714cb3db-227f-4e89-8488-85cd868fc90e
+  context: video
   zh-hans: 好。
   pinyin: Hǎo.
   en: Ok.
@@ -25,6 +26,7 @@ sentences:
   en: This library is really big.
   es: Esta biblioteca es enorme.
 - id: 0286c9f7-bfe9-41f6-b836-2c385bbc1e5f
+  context: video
   zh-hans: 嗯，
   pinyin: N,
   en: Yea,
@@ -70,10 +72,17 @@ sentences:
   en: Have you brought a photo?
   es: ¿Ha traído una foto?
 - id: a0d758a3-d947-4b72-bc71-714bf1481d1b
+  context: video
   zh-hans: 哦，带来了。
   pinyin: Ó, dài láile.
-  en: Oh, yes I have.
-  es: Ah, sí.
+  en: Oh, yes, I brought it.
+  es: Ah, sí, lo traje.
+- id: a0d758a3-d947-4b72-bc71-714bf1481d1b
+  context: audio
+  zh-hans: 带来了。
+  pinyin: dài láile.
+  en: Yes, I brought it.
+  es: Sí, lo traje.
 - id: 539b26fe-2719-4d23-b108-a15798ee5b2b
   zh-hans: 请先填一张表。
   pinyin: Qǐng xiān tián yī zhāng biǎo.
@@ -83,7 +92,7 @@ sentences:
   zh-hans: 力波，你从那儿拿一张表来。
   pinyin: Lìbō, nǐ cóng nàr ná yī zhāng biǎo lái.
   en: Libo, complete this form from here.
-  es: Lippo, coge un formulario de ahí.
+  es: Libo, coge un formulario de ahí.
 - id: 422aabad-2831-48da-95d9-4f8f79ca5baa
   zh-hans: 我告诉你怎么填。
   pinyin: Wǒ gàosù nǐ zěnme tián.

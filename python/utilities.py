@@ -1,13 +1,15 @@
-def get_data_timestamps_sentences_from_files(filename_timestamps, filename_sentences):
+import re
+
+def get_data_timestamps_sentences(file_path_timestamps, file_path_sentences):
     import yaml
     import re
 
     data_timestamps_sentences = []
 
-    with open(filename_timestamps, 'r') as f:
+    with open(file_path_timestamps, 'r') as f:
         lines = f.readlines()
         for i in range(len(lines)):
-            if results := re.search(r"^([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9] --> ([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9]", lines[i]):
+            if results := re.search(r"^([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{3}) --> ([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{3})", lines[i]):
                 start = results.group(1)
                 end = results.group(2)
                 id = lines[i+1].rstrip()
@@ -17,8 +19,8 @@ def get_data_timestamps_sentences_from_files(filename_timestamps, filename_sente
                     'end': end,
                 })
 
-    with open(filename_sentences) as f:
-        data_sentences = yaml.safe_load(f)
+    with open(file_path_sentences) as f:
+        data_sentences = yaml.safe_load(f)['sentences']
 
     # We iterate through the timestamps.
     #
@@ -26,13 +28,23 @@ def get_data_timestamps_sentences_from_files(filename_timestamps, filename_sente
     # can be used twice.
 
     for data_item in data_timestamps_sentences:
-        sentence  = next(item for item in data_sentences if item['id'] == data_item['id'])
+        sentence  = next((item for item in data_sentences if item['id'] == data_item['id']), None)
+        if sentence == None:
+            raise Exception("No sentence found for ID: %s" % data_item['id'])
         for key, value in sentence.items():
             if key == 'id':
                 continue
             data_item[key] = value
 
     return data_timestamps_sentences
+
+def ensure_timestamps_have_two_decimals(data_timestamps_sentences):
+    regex = re.compile('\.[0-9]{3}$')
+    for item in data_timestamps_sentences:
+        if re.search(regex, item['start']):
+            item['start'] = item['start'][:-1]
+        if re.search(regex, item['end']):
+            item['end'] = item['end'][:-1]
 
 def remove_word_indicators_in_string(string):
     import re
@@ -45,19 +57,18 @@ def remove_word_indicators_in_keys(data, keys):
             if key in keys:
                 obj[key] = remove_word_indicators_in_string(obj[key])
 
-colors = ['77CCDD', 'EECC88', '339999', 'CC9966', '99AA44', 'CC6677', 'CC6677', 'CC6677']
-
 def insert_colors_in_string(string):
     import re
-    return re.sub(r'\(([0-9]+):([^)]+)\)', lambda x: f'{{\\1c&H{colors[int(x.group(1))-1]}&}}{x.group(2)}{{\\c}}', string)
+    return re.sub(r'\(([0-9]+):([^)]+)\)', lambda x: f'{{\\r{int(x.group(1))}}}{x.group(2)}{{\\r}}', string)
 
 def get_string_with_underline_and_colors(match):
     if current_key == 'pinyin':
         numberings_of_groups_found_in_string.append(match.group(1))
-    color = colors[int(match.group(1))-1]
+    color = match.group(1)
     word = match.group(2)
+    style = f"{color}-" + (current_key if current_key == 'pinyin' or current_key == 'zh-hans' else 'third-line')
     do_underline = True if match.group(1) in numberings_of_new_words else False
-    return (r'{\u1}' if do_underline else "") + f"""{{\\1c&H{color}&}}{word}{{\\c}}""" + (r'{\u0}' if do_underline else "")
+    return (r'{\u1}' if do_underline else "") + f"""{{\\r{style}}}{word}{{\\r}}""" + (r'{\u0}' if do_underline else "")
 
 def replace_all_parentheses_groups_with_colors_and_underline(string, key):
     import re
